@@ -1,0 +1,51 @@
+.login {
+    position: absolute;
+    left: 90%;
+}
+.title {
+    font-size: 35px;
+}
+.mainContainer {
+    display: flex;
+    justify-content: center;
+}
+.aa {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 15px;
+    background-color: #dde8eeb6;
+    height: 400px;
+}
+.search input {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 15px;
+    width: 500px;
+    height: 40px;
+    text-indent: 10px;
+    border: 1px solid black;
+}
+.mainImage {
+    display: flex;
+    justify-content: space-evenly;
+    width: 80%;
+    margin: 0 auto;
+}
+.mainImage div {
+    font-size: 20px;
+    text-align: center;
+}
+.price {
+    font-weight: bolder;
+}
+
+.mainImage img {
+    width: 250px;
+    height: 250px;
+}
+
+.mainImage button {
+    font-size: 30px;
+    background-color: white;
+    border: 0px;
+}
